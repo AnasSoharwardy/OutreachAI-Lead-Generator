@@ -1,6 +1,8 @@
 # 🚀 OutreachAI — AI-Powered Lead Generation Tool
 
-**OutreachAI** is an AI-powered personal lead generation tool that helps agencies, freelancers, and B2B businesses find **verified leads** faster. It leverages **Google Maps data via Serper**, scrapes company websites, and uses **LLaMA 3 (via Groq)** to enrich leads with business insights.
+**OutreachAI** is an AI-powered personal lead generation tool that helps agencies, freelancers, and B2B businesses find **verified leads** faster. 
+
+It leverages **Google Maps data via Serper**, scrapes company websites, and uses **LLaMA 3 (via Groq)** to enrich leads with business insights.
 
 ## Features
 - **Live Data from Google Maps** – fetch businesses based on niche & location  
