@@ -15,6 +15,37 @@
 
 https://github.com/user-attachments/assets/00d2ebaa-c122-4f3b-8dcf-c8d26e17f051
 
+
+---
+## How to Run
+
+### 1. Install Dependencies
+
+Open a CMD in project folder and enter:
+```
+pip install -r requirements.txt
+```
+
+### 2. Add Your API Keys
+
+Edit the `.env` file in the root directory and replace it with your key:
+
+```
+SERPER_API_KEY = YOUR_SERPER_API_KEY_HERE
+GROQ_API_KEY = YOUR_GROQ_API_KEY_HERE
+```
+You can get the SERPER API KEY from [here](https://www.serpapi.com)
+
+You can get the GROQ API KEY from [here](https://console.groq.com/keys)
+
+
+### 3. Run the Tool
+
+Run the provided file to automatically launch the tool
+```
+RUN ME.bat
+```
+
 ---
 
 ## Tech Stack
